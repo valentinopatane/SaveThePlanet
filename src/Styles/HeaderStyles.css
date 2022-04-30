@@ -1,3 +1,10 @@
 .Header {
   display: flexbox;
+  background-color: lightgreen;
+}
+.Header h3 {
+  display: flex;
+  justify-content: right;
+  padding-right: 1em;
+  transform: translate(0, -15px);
 }
